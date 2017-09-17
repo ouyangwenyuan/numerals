@@ -1,0 +1,32 @@
+******************************
+ Draw Lines Complete Project
+	 Version 2.0.0 Extra
+******************************
+
+Thank you for buying/downloading DrawLines.
+
+If you have any questions, suggestions, comments , feature requests or bug detected,
+you can send email to "freelance.art2014@gmail.com".
+
+Important
+- Before build Move GoogleMobileAds & Plugins folders from Draw Lines Extra folder to Assets folder.
+
+Notes
+- Use the first AudioSource component in AudioSources GameObject for the music.
+- Use the second AudioSource component in AudioSources GameObject for the Sound Effects.
+- Download Music From https://soundcloud.com/monstercat/laszlo-supernova
+
+Website
+http://www.indiegstudio.com
+
+Facebook Page
+https://www.facebook.com/IndieGamesStudio
+
+
+We always strive to provide high quality assets such as Draw Lines. If you have enjoyed with Draw Lines , we would be happy 
+if you would spend few minutes and write a review for us on the Asset Store or add a comment to our facebook page.
+
+commercial uses allowed such as publish an executable app on GooglePlay,App Store ..etc with ads or App Purchases or something else,
+but not to resell the source code or the unity package.
+
+copyright © 2016 IGS. All rights reserved.

@@ -1,0 +1,33 @@
+2.0.0 Extra
+- [New] GUI Skin
+- [New] Support Webplayer,WebGL,Windows Phone 8,Windows Store and more
+- [New] Data Repository
+- [New] Six Missions 3x3 , 4x4 , 5x5 , 6x6 ,7x7 , 8x8 and you can add more
+- [New] 528 Random Levels
+- [New] Random Levels Generator
+- [New] Sprites & Colors predefined sequence
+- [New] Mission Import/Export using Inspector
+- [New] Level Import/Export using Inspector
+- [New] Saving and Loading using PlayerPref
+- [New] DataManager Optimization & Minifying
+- [New] GameManager Optimization & Minifying
+- [New] AdsManager
+- [New] Admob Integration
+- [New] Ability to create a lot of levels in few seconds
+- [New] Level Helper (Hint)
+- [New] Best Score
+- [New] Flows Number
+- [New] Level Groups
+- [New] Mission Groups
+- [New] Suggest new path for the user
+- [New] Build Grid using uGUI
+- [New] Customizable Grid Background
+- [New] Pause & Locked Dialogs
+- [New] About Scene
+- [New] Rate Us Link
+- [New] Facebook Link
+- [New] Manual Update
+- [New] Levels Scene Performance Optimization
+- [New] Missions Scene Performance Optimization
+- [Fix] Locked Missions Bug
+- [Fix] Load Missions from the scene Bug
